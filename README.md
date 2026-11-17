@@ -76,8 +76,7 @@ I am a passionate IT Professional and AWS re/Start Graduate dedicated to buildin
 ---
 
 ### 🎯 Career Goal
-To become a Cloud Engineer capable of designing, deploying, and managing scalable and secure cloud systems using AWS and modern infrastructure tools. I'm actively building hands-on cloud experience through structured learning, labs, and personal projects while documenting my journey here on GitHub.
-
+To serve as a strategic technical problem-solver within a forward-thinking organization. I aim to leverage my dual expertise in systems support and software development to diagnose, resolve, and prevent critical business system issues—delivering secure, scalable, and user-centric IT environments
 ---
 
 ### 📫 Let's Connect
